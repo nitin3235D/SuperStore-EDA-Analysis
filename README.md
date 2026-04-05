@@ -13,3 +13,6 @@ Performed exploratory data analysis on SuperStore dataset.
 - Pandas
 - Matplotlib
 
+## 📸 Dashboard Preview
+
+![Dashboard](ss.png)
